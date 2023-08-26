@@ -37,6 +37,9 @@ dependencies:
   firebase_auth: ^4.8.0
   firebase_storage: ^11.2.6
   cloud_firestore: ^4.9.0
+  flutter_riverpod: ^2.3.7
+  country_picker: ^2.0.20
+  image_picker: ^1.0.2
 
 dev_dependencies:
   flutter_test:
@@ -85,3 +88,4 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
